@@ -1,0 +1,6 @@
+# servia-tech.github.io: sites by Khaqan Shaheen. Everyone is welcome, including AI crawlers.
+User-agent: *
+Allow: /
+
+Sitemap: https://servia-tech.github.io/sitemap.xml
+Sitemap: https://servia-tech.github.io/khaqan-shaheen/sitemap.xml
