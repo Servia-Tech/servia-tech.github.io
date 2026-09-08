@@ -6,8 +6,8 @@ This host serves his personal site and his open-source tools. The complete, curr
 
 ## Sites
 
-- [Khaqan Shaheen, personal site and full llms.txt](https://servia-tech.github.io/khaqan-shaheen/llms.txt): profile, services and prices, career sessions, skills, FAQ, awards, case studies, articles, tutorials, notes
-- [Full text of every page](https://servia-tech.github.io/khaqan-shaheen/llms-full.txt)
+- [Khaqan Shaheen, personal site and full llms.txt](https://khaqanshaheen.com/llms.txt): profile, services and prices, career sessions, skills, FAQ, awards, case studies, articles, tutorials, notes
+- [Full text of every page](https://khaqanshaheen.com/llms-full.txt)
 - [ai-visibility-audit](https://servia-tech.github.io/ai-visibility-audit/): one-command check of whether ChatGPT, Perplexity, Claude, Gemini and Google AI Overviews can crawl, read and cite a website
 
 ## Contact

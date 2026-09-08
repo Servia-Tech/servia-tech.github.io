@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://servia-tech.github.io/sitemap.xml
-Sitemap: https://servia-tech.github.io/khaqan-shaheen/sitemap.xml
+Sitemap: https://khaqanshaheen.com/sitemap.xml
